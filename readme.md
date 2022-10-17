@@ -18,7 +18,7 @@ LICENSE: [MIT](./license.md)
 8. [Git RM](./git_rm.md)
 9. [Git MV](./git_mv.md)
 10. [Git Clean](/git_clean.md)
-11. Podsvetka
+11. [Podsvetka](./podsvetka.md)
 
 ---
 
