@@ -1,0 +1,11 @@
+# Editor directories and Files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Hide user accounts
+/user_account.md
